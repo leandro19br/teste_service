@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+    <query id="findVeiculoByName">
+        select v from Veiculo v where v.veiculo like :veiculo
+    </query>
+</queries>

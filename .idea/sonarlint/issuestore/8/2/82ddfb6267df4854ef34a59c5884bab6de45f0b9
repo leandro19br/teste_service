@@ -1,0 +1,15 @@
+
+U
+java:S1128"5Remove this unused import 'javax.persistence.Entity'.(úƒßıûÿÿÿÿ8¿š¿Ó.
+L
+java:S1128"1Remove this unused import 'javax.persistence.Id'.(ş¹ŞÜ8òã¿Ó.
+X
+java:S1128"=Remove this unused import 'javax.persistence.GeneratedValue'.(¤®À‚8òã¿Ó.
+3
+java:S1700"Rename field "condition"(ğÀ”Ï8·ÚÄÓ.
+X
+java:S1128"=Remove this unused import 'javax.persistence.GenerationType'.(ı÷õ¡8òã¿Ó.
+P
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èıÿÿÿÿ8òã¿Ó.
+\
+java:S3066"<Lower the visibility of this setter or remove it altogether.(æØëşÿÿÿÿ8ãÖÇÓ.

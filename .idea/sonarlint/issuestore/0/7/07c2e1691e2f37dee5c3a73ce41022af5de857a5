@@ -1,0 +1,11 @@
+
+f
+java:S1128"IRemove this unused import 'com.google.gson.internal.$Gson$Preconditions'.(ÓşÍâ8›ıƒÓ.
+F
+java:S1948"$Make "em" transient or serializable.(‘æ¿Úúÿÿÿÿ8ñıÕÔ.
+N
+java:S1068",Remove this unused "sqlQuery" private field.(ìÏæ…ùÿÿÿÿ8ªá»œÓ.
+e
+java:S2583c"CChange this condition so that it does not always evaluate to "true"(·Š•ğüÿÿÿÿ8—†œÓ.
+c
+java:S1858G"F"hql" is already a string, there's no need to call "toString()" on it.(„µÙÕ8›ÔèÓ.
